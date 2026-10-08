@@ -1,0 +1,5 @@
+*.exe
+*.o
+allocator_demo
+allocator_tests
+allocator_bench
